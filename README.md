@@ -18,7 +18,7 @@ In this project we use data visualization to show the gender gap in all the fiel
 ## Technical Details
 
 - Created a dashboard of line charts illustrating the gender gap trend in bachelor's degrees awarded to women and men from 1970 to 2012.
-- Used Matplotlib for plotting and Seaborn to improve visual aesthetics and effectiveness.
+- Used Python packages such as Matplotlib for plotting and Seaborn to improve visual aesthetics and effectiveness.
 - Set axis limits and removed distractions to present clean and straightforward visualizations.
 
 ## Dependency Versions
