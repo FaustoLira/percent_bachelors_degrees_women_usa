@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to convey complex information through clear, simple, and objective visualizations.
+This project aims to present clear and objective visualizations to support governmental efforts in developing campaigns to promote the advancement of women in universities and the workforce. By understanding the gender gap in bachelor's degree attainment, the project provides valuable insights that can help design effective strategies for encouraging female participation and success in higher education and career fields.
 
 [The Department of Education Statistics](https://nces.ed.gov/programs/digest/2013menu_tables.asp) releases a data set annually 
 containing the percentage of bachelor's degrees granted to women in the U.S.A. from 1970 to 2012. The data set is broken up 
