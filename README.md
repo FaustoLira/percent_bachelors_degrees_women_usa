@@ -1,4 +1,4 @@
-# Percentage of bachelor's degrees granted to women from 1970 to 2012.
+# Percentage of Women with Bachelor's Degrees (1970-2012)
 
 ## Introduction
 
