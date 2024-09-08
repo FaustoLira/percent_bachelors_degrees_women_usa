@@ -1,6 +1,6 @@
 # Percentage of Women with Bachelor's Degrees (1970-2012)
 
-## Introduction
+## Objective
 
 This project aims to present clear and objective visualizations to support governmental efforts in developing campaigns to promote the advancement of women in universities and the workforce. By understanding the gender gap in bachelor's degree attainment, the project provides valuable insights that can help design effective strategies for encouraging female participation and success in higher education and career fields.
 
@@ -20,6 +20,15 @@ In this project we use data visualization to show the gender gap in all the fiel
 - Created a dashboard of line charts illustrating the gender gap trend in bachelor's degrees awarded to women and men from 1970 to 2012.
 - Used Python packages such as Matplotlib for plotting and Seaborn to improve visual aesthetics and effectiveness.
 - Set axis limits and removed distractions to present clean and straightforward visualizations.
+
+## Impact
+
+Highlighted Engineering and Computer Science as the most challenging fields for female inclusion, enabling the government to 
+design more targeted and cost-effective interventions.
+
+## Visuals
+
+Multiple linecharts arranged in a matrix of subplots.
 
 ## Dependency Versions
 
