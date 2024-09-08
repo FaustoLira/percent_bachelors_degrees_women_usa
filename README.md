@@ -1,6 +1,6 @@
 # Percentage of Women with Bachelor's Degrees (1970-2012)
 
-## Objective
+## Introduction
 
 This project aims to present clear and objective visualizations to support governmental efforts in developing campaigns to promote the advancement of women in universities and the workforce. By understanding the gender gap in bachelor's degree attainment, the project provides valuable insights that can help design effective strategies for encouraging female participation and success in higher education and career fields.
 
